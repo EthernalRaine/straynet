@@ -19,6 +19,9 @@
     text-align: center;
     justify-content: space-between;
 }
+.headertext {
+    text-align: center;
+}
 
 a {
     color: #89b4fa;
@@ -40,7 +43,7 @@ header {
     text-align: center;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 main {
