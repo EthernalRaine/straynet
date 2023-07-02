@@ -1,2 +1,2 @@
 # straynet.github.io
-Homepage of a cyberstray
+homepage of a cyberstray
