@@ -7,19 +7,10 @@
     src: url(./fonts/VictorMono/VictorMono-Italic.woff);
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
 .news {
     background-color: #11111b;
     margin-bottom: 1rem;
     margin-top: 1rem;
-}
-
-.news h4 {
-    color: a6adc8;
 }
 
 .socials {
